@@ -1,0 +1,23 @@
+{
+  "name": "bestofme",
+  "version": "1.0.0",
+  "description": "App simples que faz perguntas. Projeto que teve como base os estudos em Node da RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogatalars/bestOfMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogatalars/bestOfMe/issues"
+  },
+  "homepage": "https://github.com/ogatalars/bestOfMe#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
